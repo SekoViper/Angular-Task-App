@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Watch Angular Videos.",
+      "day": "Tuesdays",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Play football",
+      "day": "Tuesdays",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Developers Congress Metting",
+      "day": "Wednesday",
+      "reminder": false
+    },
+    {
+      "text": "Got a Mask",
+      "day": "Friday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
