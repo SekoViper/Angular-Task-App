@@ -35,8 +35,8 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~12.2.1",
-    "@angular/cli": "~12.2.1",
-    "@angular/compiler-cli": "~12.2.0",
+    "@angular/cli": "^12.2.3",
+    "@angular/compiler-cli": "^12.2.3",
     "@types/jasmine": "~3.8.0",
     "@types/node": "^12.11.1",
     "enhanced-resolve": "^3.3.0",
@@ -48,9 +48,8 @@
     "karma-jasmine-html-reporter": "~1.7.0",
     "typescript": "~4.3.5"
   },
-
   "engines": {
     "node": "14.17.5",
-    "npm": "16.14.14"
+    "npm": "6.14.14"
   }
 }
