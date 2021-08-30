@@ -52,7 +52,7 @@
   },
   "engines": {
     "node": "14.17.5",
-    "npm": "6.14.14"git push -f origin branch-name
+    "npm": "6.14.14"
 
 
   }
